@@ -1,1 +1,1 @@
-# Simole Todo List tugas mobile app 2
+# Simple Todo List tugas mobile app 2
