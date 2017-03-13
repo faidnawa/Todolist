@@ -40,7 +40,7 @@
         android:layout_alignParentRight="true"
         android:background="@color/colorAccent"
         android:onClick="onAddItem"
-        android:text="Tanbah"
+        android:text="Tambah"
         android:textColor="@android:color/background_light" />
 
 </RelativeLayout>
